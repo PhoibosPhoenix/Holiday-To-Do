@@ -26,3 +26,9 @@ Feel free to add items to the list.
 * [x] Vodka - Austin
 * [x] Fireball - Austin
 * [x] Tequila - Austin
+
+### Other:
+* [ ] Table
+* [ ] Chairs
+* [ ] Silverware
+* [ ] Plates
